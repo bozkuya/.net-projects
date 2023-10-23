@@ -1,0 +1,14 @@
+C:\Users\yasin\Masaüstü\car_market\car_market\bin\Debug\net7.0\car_market.exe
+C:\Users\yasin\Masaüstü\car_market\car_market\bin\Debug\net7.0\car_market.deps.json
+C:\Users\yasin\Masaüstü\car_market\car_market\bin\Debug\net7.0\car_market.runtimeconfig.json
+C:\Users\yasin\Masaüstü\car_market\car_market\bin\Debug\net7.0\car_market.dll
+C:\Users\yasin\Masaüstü\car_market\car_market\bin\Debug\net7.0\car_market.pdb
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.AssemblyInfoInputs.cache
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.AssemblyInfo.cs
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.dll
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\refint\car_market.dll
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.pdb
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\car_market.genruntimeconfig.cache
+C:\Users\yasin\Masaüstü\car_market\car_market\obj\Debug\net7.0\ref\car_market.dll
