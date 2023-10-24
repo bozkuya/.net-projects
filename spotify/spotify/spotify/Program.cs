@@ -4,7 +4,7 @@ using _spotify.Services;
 using spotify.Entities;
 
 Console.WriteLine();
-var song1 = new Song("Haydi Gel Benimle Ol", "Sezen Aksu", "Sezen Aksu", "Netd");
+var song1 = new Song("Haydi Gel Benimle Ol", "Sezen Aksu", "Netd", "Aysel Gürel");
 var playlist1 = new Playlist(song1);
 playlist1.AddSong(song1);
 
